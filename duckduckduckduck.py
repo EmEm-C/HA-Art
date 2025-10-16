@@ -1,6 +1,6 @@
 import time
 def tofu_soup():
-    
+
 print("tofu soup - said fried chicke")
 x = 2
 if x == 2: 
@@ -14,6 +14,6 @@ for x in range (0, 10):
 if x == 9:
     print("my little poney")
 elif x == 10:
-    print("baldie's basic")
+    print("My Little Poney")
 try:
     print("Balding owen")
